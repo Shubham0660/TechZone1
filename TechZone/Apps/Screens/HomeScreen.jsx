@@ -78,8 +78,8 @@ const getCategory=()=>{
      
       {/* React Native Course list */}
 
-       {/* <SectionHeading heading={'React Native Courses'}/>
-      <CourseList courseList={getFilterCourseList('react_native')}/> */}
+        <SectionHeading heading={'React Courses'}/>
+      <CourseList courseList={getFilterCourseList('reactjs')}/> 
 
 
       <SectionHeading heading={'Popular Courses'}/>
